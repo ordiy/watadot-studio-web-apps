@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import { WataDotMark } from './WataDotMark'
 
 const NAV = [
-  { href: '#aigc', label: 'AIGC' },
+  { href: '#foresight-agent', label: 'ForesightAgent' },
   { href: '#map-rag', label: 'MAP-RAG' },
   { href: '#blog', label: 'Blog' },
   { href: '#about', label: 'About' },
